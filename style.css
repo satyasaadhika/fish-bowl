@@ -72,3 +72,7 @@ body{
     z-index: -1;
     border-radius: 50%;
 }
+img.fish{
+    width: 100px;
+    animation: animateFish 5s linear infinite ;
+}
